@@ -1,9 +1,75 @@
 
-
-
-/* cart starts */
 .card{
-    padding: 15px;
-    background-color: greenyellow;
+    padding: 30px 20px;
+    background-color: var(--neutral-color-card-bg);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
 }
-/* cart ends */
+/* card image */
+figure {
+    text-align: center;
+}
+figure > img {
+    border-radius: 50%;
+    width: 50%;
+}
+
+
+/* Article */
+article > h1{
+    font-family: inter-semiBold;
+}
+article > p{
+    color:var(--tertiary-color);
+    font-family: inter-semiBold;
+    margin-bottom: 1rem;
+}
+
+
+/* Links */
+.links > p{
+    font-weight: 100;
+    margin-bottom: 0.5rem;
+}
+.links > ul{
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+}
+.links > ul > li{
+    background-color: var(--secondary-color);
+    width: 100%;
+    text-align: center;
+    border-radius: 0.5rem;
+}
+
+.links > ul > li > a{
+    display: block;
+    padding: 5px 5px;
+    color: var(--primary-color);
+    text-decoration: none;
+    font-family: inter-bold;
+}
+
+.links > ul > li a:hover{
+    background-color: var(--tertiary-color);
+    border-radius: 0.5rem;
+    color: var(--neutral-color-body-bg);
+}
+
+
+.attribution {
+    margin-top: 15px;
+    text-align: center;
+}
+.attribution > a{
+    color: var(--tertiary-color);
+    font-weight: bold;
+    text-decoration: none;
+}
