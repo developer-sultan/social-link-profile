@@ -1,7 +1,9 @@
 :root{
-    --primary-color: #343434;
-    --secondary-color: #8a4a35;
-    --nutral-color: #f3e5d8;
+    --primary-color: hsl(0, 0%, 100%);
+    --seconday-color: hsl(0, 0%, 20%);
+    --nutral-color-body-bg: hsl(0, 0%, 8%);
+    --nutral-color-body-bg: hsl(0, 0%, 12%);
+    --tertiary-color: hsl(75, 94%, 57%);
 }
 *{
     margin: 0;

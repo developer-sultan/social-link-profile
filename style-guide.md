@@ -1,6 +1,6 @@
 # Front-end Style Guide
 
-## Layout
+## Layouto
 
 The designs were created to the following widths:
 
