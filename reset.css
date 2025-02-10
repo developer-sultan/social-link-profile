@@ -2,7 +2,7 @@
     --primary-color: hsl(0, 0%, 100%);
     --seconday-color: hsl(0, 0%, 20%);
     --nutral-color-body-bg: hsl(0, 0%, 8%);
-    --nutral-color-body-bg: hsl(0, 0%, 12%);
+    --neutral-color-body-bg: hsl(0, 0%, 12%);
     --tertiary-color: hsl(75, 94%, 57%);
 }
 *{
@@ -29,9 +29,14 @@
 body{
     font-family: "inter-semiBold";
     font-weight: 400;
-    background-color: var(--nutral-color);
-    font-size: 16px;
+    background-color: var(--neutral-color-body-bg);
+    font-size: 14px;
     line-height: 1.9rem;
+    padding: 60px 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 img{
