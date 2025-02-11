@@ -1,0 +1,18 @@
+@media only screen and (min-width: 991px){
+    figure > img {
+        width: 40%;
+    }
+    article > h1{
+        font-size: 16px;
+    }
+    article > p{
+        font-size: 11px;
+    }
+
+    .links > p{
+        font-size: 11px;
+    }
+    .links > ul > li > a{
+        font-size: 11px;
+    }
+}
