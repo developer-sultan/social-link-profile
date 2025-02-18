@@ -15,9 +15,9 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ### Screenshot
 #### desktop preview
-![desktop preview](./design/destop-preview.jpg)
+![desktop preview](./design/destop-preview.jpg).
 #### mobile preview
-![Mobile preview](./design/mobile-preview.jpg)
+![Mobile preview](./design/mobile-preview.jpg).
 
 ### Links
 
