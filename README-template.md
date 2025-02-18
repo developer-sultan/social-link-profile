@@ -17,14 +17,8 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ## Overview
   - This is a link profile single page application. With the help of this app you can easily navigate your social medias.
-### The challenge
-
-Users should be able to:
-
-- See hover and focus states for all interactive elements on the page
 
 ### Screenshot
-
 ![](./screenshot.jpg)
 
 Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
